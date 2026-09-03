@@ -15,7 +15,6 @@ namespace OPP_Asssginment3
         {
             Console.WriteLine("===StandardShipment===");
             base.PrintShipment();
-
         }
 
     }
