@@ -9,7 +9,6 @@ namespace OPP_Asssginment3
         private string destinationCountry;
         private decimal customsFee;
 
-
         public string DestinationCountry
         {
             get { return destinationCountry; }
