@@ -12,8 +12,6 @@ namespace OPP_Asssginment3
             {
                 shipment.PrintShipment();
             }
-
-
         }
 
     }
