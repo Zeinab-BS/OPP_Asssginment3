@@ -11,7 +11,6 @@ namespace OPP_Asssginment3
         {
 
         }
-
         public sealed override void GenerateCustomeReport()
         {
             Console.WriteLine($"[PRIORITY CLEARANCE] Official Customs Report for {TrackingCode} to {DestinationCountry}. Total Customs: {CustomsFee}");
