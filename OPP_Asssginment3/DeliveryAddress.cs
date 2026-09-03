@@ -10,6 +10,7 @@ namespace OPP_Asssginment3
         public string City;
         public string Street;
         public int BuildingNumber;
+        
 
         public DeliveryAddress(string _city, string _street, int _bNum)
 
