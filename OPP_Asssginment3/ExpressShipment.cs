@@ -35,7 +35,6 @@ namespace OPP_Asssginment3
             ExtraFee = ex;
 
         }
-
         public override void PrintShipment()
 
         {
